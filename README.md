@@ -1,6 +1,5 @@
-jubilant-fortnight
-
-# Heading 1
+#jubilant-fortnight
+Nyhetssidan
 
 ## Heading 2
 
